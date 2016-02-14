@@ -1,6 +1,6 @@
 # FlappyDragon
 
-By Couturier Valentin & Florian Oudanne
+By Couturier Valentin & Florian Ouddane
 
 Starring Bob Lennon as himself, a golden pipe as a golden pipe and a dragon as the victim
 Caméo of Heavy from Team Fortress 2
